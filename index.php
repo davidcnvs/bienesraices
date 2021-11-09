@@ -4,7 +4,7 @@ incluirTemplate('header', $inicio = true);
 ?>
 
     <main class="contenedor seccion">
-        <h1>Más Sobre Nosotros uno dos tres</h1>
+        <h1>Más Sobre Nosotros</h1>
         <div class="iconos-nosotros">
             <div class="icono">
                 <img src="build/img/icono1.svg" alt="Icono Seguridad" loading="lazy">
